@@ -30,4 +30,6 @@
     "jumppower": 416,
     "movedirection": 328,
     "displayname": 192
+    "fog_color": 232
+    "fogend": 288
 }
