@@ -35,6 +35,7 @@
     "displayname": 192,
     "fog_color": 232,
     "fogend": 288,
+    "color": 384,
     "exposure": 284,
     "aimbient": 200,
     "outdooraimbient": 248
