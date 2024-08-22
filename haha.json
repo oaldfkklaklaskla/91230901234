@@ -35,9 +35,9 @@
     "movedirection": 328,
     "displayname": 192,
     "fog_color": 232,
-    "fogend": 288,
+    "fogend": 284,
     "color": 384,
-    "exposure": 284,
+    "exposure": 280,
     "aimbient": 200,
     "outdooraimbient": 248
 }
