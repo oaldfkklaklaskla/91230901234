@@ -21,6 +21,8 @@
     "partposition": 320,
     "partvelocity": 332,
     "partcframe": 284,
+    "meshid": 288,
+    "textureid": 248,
     "transparency": 216,
     "camera_pos": 244,
     "camera_rotation": 208,
