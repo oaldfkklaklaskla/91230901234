@@ -30,8 +30,8 @@
     "camera_subject": 192,
     "camera_fov": 308,
     "value": 192,
-    "deltatime": 272,
-    "ping": 192,
+    "deltatime": 264,
+    "ping": 184,
     "health": 380,
     "max_health": 424,
     "walkspeed": 448,
@@ -46,6 +46,6 @@
     "exposure": 296,
     "aimbient": 200,
     "outdooraimbient": 248,
-    "mouse_ptr": 248,
-    "mouse_postition": 228
+    "mouse_ptr": 240,
+    "mouse_postition": 220
 }
