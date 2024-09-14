@@ -40,6 +40,7 @@
     "jumppower": 420,
     "movedirection": 316,
     "displayname": 256,
+    "rigtype": 440,
     "fog_color": 232,
     "fogend": 300,
     "color": 248,
